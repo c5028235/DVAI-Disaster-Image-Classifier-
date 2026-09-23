@@ -20,6 +20,7 @@ DVAI\
  -checkpoints
  -modules
  -temp
+ -reports
  -ui
  -app
  -requirements
