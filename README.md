@@ -15,6 +15,15 @@ The system integrates **Grad-CAM Explainable AI (XAI)** to provide visual explan
 * Interactive Streamlit dashboard
 * Automated disaster situation reports
 
+Project structure
+DVAI\
+ -checkpoints
+ -modules
+ -temp
+ -ui
+ -app
+ -requirements
+
 
 The dataset for this project is public licenced and can be downloaded here  - https://www.kaggle.com/datasets/yaroslavchyrko/rescuenet
 
